@@ -1,0 +1,7 @@
+{
+  "name": "ionicacp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
